@@ -23,7 +23,7 @@ function errorHandler(error) {
 function clickHandler() {
 //    outputDiv.innerText ="jsjsjsjsjsjsjsjsjsjsjsjsjs " +  txtInput.value;
 
-var inputText = txtInput.Value; //taking input
+var inputText = txtInput.value; //taking input
 
 
 //calling server for processing
